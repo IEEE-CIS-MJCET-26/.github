@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cis-logo.png" alt="IEEE CIS MJCET Logo" width="140"/>
+  <img src="White Logo.png" alt="IEEE CIS MJCET Logo" width="140"/>
 </p>
 
 <h1 align="center">🚀 IEEE CIS MJCET</h1>
